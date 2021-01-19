@@ -1,4 +1,4 @@
-matrix-react-sdk
+matrix-react-sdk Testing Fork
 ================
 
 This is a react-based SDK for inserting a Matrix chat/voip client into a web page.
